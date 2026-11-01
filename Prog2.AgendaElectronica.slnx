@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="scr/Prog2.AgendaElectronica.Business/Prog2.AgendaElectronica.Business.csproj" Id="6e51a2f1-1a59-4a57-85fc-7113b0fe1bc3" />
+    <Project Path="scr/Prog2.AgendaElectronica.Core/Prog2.AgendaElectronica.Core.csproj" Id="262a7353-2ee8-41de-b207-c7758071d8c4" />
+    <Project Path="scr/Prog2.AgendaElectronica.Data/Prog2.AgendaElectronica.Data.csproj" Id="9025ae64-e6a8-4376-8e89-d8253eb01b5f" />
+    <Project Path="scr/Prog2.AgendaElectronica.UI/Prog2.AgendaElectronica.UI.csproj" Id="896be543-e8b9-4f12-a704-55d37c0ffa52" />
+  </Folder>
+  <Folder Name="/tests/" />
+</Solution>
